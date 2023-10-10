@@ -6,8 +6,18 @@
     <description>Recent content on Sito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>© 2023 </copyright>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Tue, 10 Oct 2023 22:13:51 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magnifico Articolo</title>
+      <link>/post/magnifico-articolo/</link>
+      <pubDate>Tue, 10 Oct 2023 22:13:51 +0200</pubDate>
+      
+      <guid>/post/magnifico-articolo/</guid>
+      <description>Questo è un magnifico articolo per un magnifico sito.</description>
+      
+    </item>
+    
     <item>
       <title>Contatti</title>
       <link>/contatti/</link>
@@ -24,7 +34,8 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Mandaci un messaggio qui</description>
+      <description>Mandaci un messaggio qui
+NomeIndirizzo e-mailMessaggioInvia</description>
       
     </item>
     

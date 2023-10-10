@@ -4,6 +4,33 @@
   
     
       <url>
+            <loc>/post/magnifico-articolo/</loc>
+            <lastmod>2023-10-10T22:13:51+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/post/</loc>
+            <lastmod>2023-10-10T22:13:51+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/</loc>
+            <lastmod>2023-10-10T22:13:51+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>/contatti/</loc>
             <lastmod>2023-10-07T16:08:58+02:00</lastmod>
             <changefreq>daily</changefreq>
@@ -24,14 +51,6 @@
   
     
   
-    
-  
-    
-      <url>
-            <loc>/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
     
   
     
