@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sito</title>
-    <link>//edo44.github.io/sito.github.io/</link>
+    <link>/</link>
     <description>Recent content on Sito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2023 </copyright>
-    <atom:link href="//edo44.github.io/sito.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contatti</title>
-      <link>//edo44.github.io/sito.github.io/contatti/</link>
+      <link>/contatti/</link>
       <pubDate>Sat, 07 Oct 2023 16:08:58 +0200</pubDate>
       
-      <guid>//edo44.github.io/sito.github.io/contatti/</guid>
+      <guid>/contatti/</guid>
       <description>Contatti</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//edo44.github.io/sito.github.io/contatti/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/contatti/featured.jpg" />
     </item>
     
     <item>
       <title>Contattaci</title>
-      <link>//edo44.github.io/sito.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>//edo44.github.io/sito.github.io/contact/</guid>
+      <guid>/contact/</guid>
       <description>Mandaci un messaggio qui</description>
       
     </item>
