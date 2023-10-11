@@ -22,21 +22,19 @@ collections:
       - {label: "Data di Pubblicazione", name: "date", widget: "datetime"}
       - {label: "Immagine", name: "thumbnail", widget: "image"}
       - {label: "Testo", name: "body", widget: "text"}
-
   - name: "pagine"
     label: "Pagine"
-    files:
-        file: "content/_index.md"
-        label: "Home"
+    files:        
+      - label: "Home"
         name: "sito"
+        file: "content/_index.md"
         fields:
           - { label: "Titolo", name: "titolo", widget: "string" }
           - {label: "Immagine", name: "thumbnail", widget: "image"}
             { label: "Testo", name: "testo", widget: "text" },
-
-        file: "content/contatti/index.md"
-        label: "Contatti"
+      - label: "Contatti"
         name: "contatti"
+        file: "content/contatti/index.md"
         fields:
           - { label: "Titolo", name: "titolo", widget: "string" }
           - {label: "Immagine", name: "thumbnail", widget: "image"}
